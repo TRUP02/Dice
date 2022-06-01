@@ -1,0 +1,27 @@
+body{
+    background-color: #7858A6;
+    font-family: 'Tiro Telugu', serif;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 3rem;
+    margin:4rem;
+}
+.Player{
+    margin: auto; 
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    column-gap: 3rem; 
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    margin-top: 9rem;
+
+}
